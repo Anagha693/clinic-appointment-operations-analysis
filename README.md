@@ -72,7 +72,7 @@ flowchart TD
 ## Power BI Dashboard
 
 The dashboard presents appointment attendance KPIs and visual analyses of waiting time, SMS reminders, weekdays and neighbourhoods.
-![Clinic Appointment Operations Dashboard](Screenshot .png)
+![Clinic Appointment Operations Dashboard](Screenshot%20.png)
 
 ## Project Files
 
